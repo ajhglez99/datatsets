@@ -34,4 +34,4 @@ df = pd.read_csv('(https://github.com/ajhglez99/datatsets/blob/main/dataset-name
 ## Data Sources
 -------------
 
-The datasets in this repository were obtained from [Our World in Data](https://ourworldindata.org/) and are shared under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/).
+The datasets in this repository were obtained from [Our World in Data](https://ourworldindata.org/) and are shared under the [Creative Commons Attribution License](https://creativecommons.org/licenses/).
